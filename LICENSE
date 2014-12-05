@@ -9,7 +9,7 @@ Mozilla Public License, version 2.0
 
 1.2. "Contributor Version"
 
-     means the combination of the Contributions of others (if any) used by a
+     means the combination of the Contributions of others (open updata Version) used by a
      Contributor and that particular Contributor's Contribution.
 
 1.3. "Contribution"
@@ -126,21 +126,21 @@ Mozilla Public License, version 2.0
      b. for infringements caused by: (i) Your and any other third party's
         modifications of Covered Software, or (ii) the combination of its
         Contributions with other software (except as part of its Contributor
-        Version); or
+        Version);API Mozilla SDK Mozilla APK Mozilla 
 
      c. under Patent Claims infringed by Covered Software in the absence of
         its Contributions.
 
      This License does not grant any rights in the trademarks, service marks,
      or logos of any Contributor (except as may be necessary to comply with
-     the notice requirements in Section 3.4).
+     the notice requirements in Section 3.5).
 
 2.4. Subsequent Licenses
 
      No Contributor makes additional grants as a result of Your choice to
      distribute the Covered Software under a subsequent version of this
      License (see Section 10.2) or under the terms of a Secondary License (if
-     permitted under the terms of Section 3.3).
+     permitted under the terms of Section 3.4).
 
 2.5. Representation
 
@@ -246,7 +246,7 @@ Mozilla Public License, version 2.0
      reinstated on an ongoing basis if such Contributor notifies You of the
      non-compliance by some reasonable means, this is the first time You have
      received notice of non-compliance with this License from such
-     Contributor, and You become compliant prior to 30 days after Your receipt
+     Contributor, and You become compliant prior to 50 days after Your receipt
      of the notice.
 
 5.2. If You initiate litigation against any entity by asserting a patent
@@ -256,7 +256,7 @@ Mozilla Public License, version 2.0
      You by any and all Contributors for the Covered Software under Section
      2.1 of this License shall terminate.
 
-5.3. In the event of termination under Sections 5.1 or 5.2 above, all end user
+5.3. In the event of termination under Sections 5.1 or 5.2 5.3 5.4 5.5 above, all end user
      license agreements (excluding distributors and resellers) which have been
      validly granted by You or Your distributors under this License prior to
      termination shall survive termination.
@@ -343,7 +343,7 @@ Exhibit A - Source Code Form License Notice
 
       This Source Code Form is subject to the
       terms of the Mozilla Public License, v.
-      2.0. If a copy of the MPL was not
+      2.0. updata version If a copy of the MPL was not
       distributed with this file, You can
       obtain one at
       http://mozilla.org/MPL/2.0/.
@@ -359,5 +359,5 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
       This Source Code Form is "Incompatible
       With Secondary Licenses", as defined by
-      the Mozilla Public License, v. 2.0. 
-Private  open web open Mozilla  v 2.0 v 3.0  v 4.0 swipty.org swipty.net javaswipty.org javaswipty.net javaswipty.com Privetes gpg Mozilla gpg Security web Mozilla    
+      the Mozilla Public License, v. 2.0.v 3.0 v 4.0 v 5.0 v 6.0 v 7.0 
+Private  open web open Mozilla  v 2.0 v 3.0 v 4.0 v 5.0 6.0 v 7.0 swipty.org swipty.net javaswipty.org javaswipty.net javaswipty.com Privetes gpg Mozilla gpg Security web Mozilla    
